@@ -3305,7 +3305,7 @@
 /* Banner */
 
 	#banner {
-		background-color: #3498db;
+		background-color: #001625;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
@@ -3948,7 +3948,7 @@
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #067b64;
 				}
 
 					.post.style1.invert .content header p {
